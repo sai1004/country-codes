@@ -1,5 +1,8 @@
 var timeZone = [
-      "Asia/Kabul	UTC +04:30",
+      
+
+      
+            "Asia/Kabul	UTC +04:30",
       "Europe/Tirane	UTC +01:00",
       "Africa/Algiers	UTC +01:00",
       "Pacific/Pago_Pago	UTC -11:00",
@@ -423,5 +426,6 @@ var timeZone = [
       " Africa/Lusaka	UTC +02:00",
       " Africa/Harare	UTC +02:00",
       " Europe/Mariehamn	UTC +02:00"
+
 
 ]
